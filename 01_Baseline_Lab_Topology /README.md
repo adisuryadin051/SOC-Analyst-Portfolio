@@ -123,7 +123,7 @@ Topologi ini dipilih untuk mempermudah pemantauan lalu lintas dan korelasi log p
 
 ---
 
-## 5. Alur Data dan Informasi (Baseline)
+## 5. Alur Data
 
 Pada kondisi sebelum pengujian, alur data sistem dapat dijelaskan sebagai berikut:
 
@@ -136,7 +136,7 @@ Belum terdapat traffic serangan atau alert aktif pada tahap ini.
 
 ---
 
-## 6. Tujuan Penetapan Baseline
+## 6. Tujuan
 
 Penetapan baseline dilakukan untuk:
 
@@ -147,7 +147,7 @@ Penetapan baseline dilakukan untuk:
 
 ---
 
-## 7. Kesimpulan Tahap Baseline
+## 7. Kesimpulan
 
 Berdasarkan hasil dokumentasi baseline, dapat disimpulkan bahwa:
 
