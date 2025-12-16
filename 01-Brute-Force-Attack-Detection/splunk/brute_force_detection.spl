@@ -1,0 +1,3 @@
+index=auth_logs
+| stats count by src_ip
+| where count > 5
